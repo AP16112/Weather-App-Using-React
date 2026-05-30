@@ -9,6 +9,10 @@
 Weather App is a React mini project that lets users search for a city and view live weather information.
 It is designed to practice React components, state, props, API calls, environment variables, and conditional rendering.
 
+## Live Demo
+
+- **Vercel Deployment:** https://weather-app-using-react-bay.vercel.app/
+
 ## Overview
 
 - Users enter a city name.
@@ -188,4 +192,3 @@ npm run preview
 - Add forecast cards
 - Add responsive refinements
 - Add tests
-- Add deployment notes
