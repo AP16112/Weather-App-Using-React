@@ -1,0 +1,7 @@
+.WeatherApp {
+    min-height: 100vh;
+    text-align: center;
+    background-color: #eef7ff;
+    padding: 32px 16px;
+    box-sizing: border-box;
+}
